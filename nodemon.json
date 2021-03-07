@@ -1,0 +1,7 @@
+{
+    "env" :{
+        "PORT": 3000,
+        "DTABASE_NAME": "EventsTemp1",
+        "SERVER_ADDRESS": "mongodb://localhost:27017"
+    }
+}
