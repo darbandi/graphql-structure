@@ -1,2 +1,1 @@
-# graphql-structure
 GraphQL Structure
